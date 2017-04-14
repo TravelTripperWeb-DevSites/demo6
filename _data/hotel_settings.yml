@@ -1,8 +1,8 @@
 ---
 _hotel_id: TTDEMO
 _portal_id: demo
-latitude: 40.7507385
-longitude: -73.97681210000002
+latitude: '40.7507385'
+longitude: "-73.97681210000002"
 name: Paradise Hotel
 email: allsystememails@traveltripper.com
 phone_number: 1-212-683-6161
